@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+.idea/vcs.xml
+src/.ipynb_checkpoints/
+/.idea/
+/src/numpy/.ipynb_checkpoints/
+/src/pandas/.ipynb_checkpoints/
+/.idea/fancy-data.iml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/modules.xml
+/.idea/workspace.xml
